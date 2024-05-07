@@ -1,5 +1,4 @@
-var a = 10;
-var b = "10";
-var c = b === a;
-console.log(c);
-// Qual é o resultado?
+var a = 10; //number
+var b = "10"; //string
+var c = b === a; //comparação de string e number
+console.log(c); // Saída: False
